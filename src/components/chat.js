@@ -13,7 +13,7 @@ const Chat = () => {
   const { currentUser } = useContext(ProductContext);
 
   const [messageList, setMessageList] = useState([
-    // { text: "Hello, bhai kya padh rhe ho", created: new Date(), sent: false },
+    // { text: "Hello, bhai kitne number aye?", created: new Date(), sent: false },
     // {
     //   text: "abhi kuch nhi padha, syllabus dekhna hai",
     //   created: new Date(),
