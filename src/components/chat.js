@@ -19,7 +19,7 @@ const Chat = () => {
     //   created: new Date(),
     //   sent: true,
     // },
-    // { text: "accha to bata dena", created: new Date(), sent: false },
+    // { text: "bhai jhooth mat bolo", created: new Date(), sent: false },
   ]);
 
   useEffect(() => {
