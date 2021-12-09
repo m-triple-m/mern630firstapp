@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+}
+
+.subtitle {
+  font-family: Alata;
+  margin-bottom: 1rem;
+}
+
+.chat-back {
+  background: url(./images/pattern.png) no-repeat;
+  background-size: cover;
+}

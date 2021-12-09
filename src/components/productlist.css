@@ -1,0 +1,14 @@
+.nums {
+  border: 2px solid rgb(65, 0, 59);
+  /* width: fit-content; */
+  padding: 5rem;
+  background-color: rgb(65, 0, 59);
+  color: white;
+  border-radius: 10px;
+  font-size: 5rem;
+  text-align: center;
+}
+
+.df {
+  color: #1f1f1f;
+}
