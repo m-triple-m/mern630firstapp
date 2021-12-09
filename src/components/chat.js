@@ -15,7 +15,7 @@ const Chat = () => {
   const [messageList, setMessageList] = useState([
     // { text: "Hello, bhai kitne number aye?", created: new Date(), sent: false },
     // {
-    //   text: "abhi kuch nhi padha, syllabus dekhna hai",
+    //   text: "bhai fail hai",
     //   created: new Date(),
     //   sent: true,
     // },
